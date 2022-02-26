@@ -1,6 +1,6 @@
 # frontProject
 
-git init
+git init<br>
 git add
 git commit -m "init"
 git remote add origin %URL%
