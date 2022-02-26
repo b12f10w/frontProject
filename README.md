@@ -1,8 +1,8 @@
 # frontProject
 
-git init<br>
-git add
-git commit -m "init"
-git remote add origin %URL%
-git pull origin main
-git push origin main
+git init<br/>
+git add<br/>
+git commit -m "init"<br/>
+git remote add origin %URL%<br/>
+git pull origin main<br/>
+git push origin main<br/>
